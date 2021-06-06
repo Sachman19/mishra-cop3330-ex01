@@ -14,7 +14,6 @@ public class Main {
 
         System.out.print("What is your name? ");
         String name = input.nextLine();
-        System.out.println();
         System.out.printf("Hello %s.", name);
 
     }
